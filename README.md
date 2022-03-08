@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alexis Martin</h1>
 <h3 align="center">Aspiring Software Developer from the Philippines</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a 2nd year BSIT College 
+- 🔭 I’m currently a 2nd year BSIT College student from ASIA PACIFIC COLLEGE.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-heyalexm.herokuapp.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-heyalexm.herokuapp.com/)** still under development!!
 
 - 📫 How to reach me **atmartin@student.apc.edu.ph**
 
