@@ -85,10 +85,10 @@
 
             <div class="home__buttons">
               <a
-                download=""
                 href="assets/pdf/Alexis-Cv.pdf"
                 class="button button--ghost"
-                >Download CV</a
+                target="_blank"
+                >View CV</a
               >
               <a href="#about" class="button">About Me</a>
             </div>
