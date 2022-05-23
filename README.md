@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-heyalexm.herokuapp.com/)** still under development!!
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://heyalexm.netlify.app/)** still under development!!
 
 - 📫 How to reach me **atmartin@student.apc.edu.ph**
 
